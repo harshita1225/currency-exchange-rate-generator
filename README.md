@@ -1,6 +1,10 @@
-## Exchange Rate
+## Currency Exchange Rate calculator
 
 Select countries to get the exchange rate for a specific amount
+
+## Link
+
+- Live Site URL: [https://harshita1225.github.io/currency-exchange-rate-generator/](https://harshita1225.github.io/currency-exchange-rate-generator/)
 
 ## Project Specifications
 
@@ -9,3 +13,19 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+### screenshot
+
+![Desktop version](./img/Screenshot%20from%202022-10-16%2023-42-17.png)
+
+### Built with
+
+- Semantic HTML5 markup
+- Javascript
+- API
+- CSS
+- DOM
+
+## Author
+
+- Website - [Harshita Joshi-Github](https://github.com/harshita1225)
